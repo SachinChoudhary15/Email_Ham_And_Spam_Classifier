@@ -1,0 +1,16 @@
+# Virtual Environments
+EmailClassifier/
+
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Model files (optional)
+*.joblib
+
+requirements.txt
